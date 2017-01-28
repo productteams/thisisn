@@ -10,24 +10,24 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">SkiWeek Pass </li>
-    <li class="grey">$ 59/week</li>
-    <li>Traffic Predictions</li>
-    <li>Morning Flash</li>
-    <li>BackHome Flash</li>
-    <li>North Tahoe Merchant Specials/Discounts</li>
+    <li class="header">Initial Scoping </li>
+    <li class="grey">$ 100</li>
+    <li>2 hours Research</li>
+    <li>1 Hour Conference Call</li>
+    <li>Deliverable 1: Project Recommendations</li>
+    <li>Deliverable 2: Project Timeline and Budget</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
 
 <div class="columns">
   <ul class="price">
-    <li class="header" style="background-color:#4CAF50">SkiSeason Pass</li>
-    <li class="grey">$ 190 / season</li>
-    <li>Dedicated Concierge</li>
-    <li>Ski Storage</li>
-    <li>VIP Event Access </li>
-    <li>VIP Parking Access</li>
+    <li class="header" style="background-color:#4CAF50">10 Hour Block</li>
+    <li class="grey">$ 1000 </li>
+    <li>All source code written</li>
+    <li>All original graphics files</li>
+    <li>Consultation as required</li>
+    <li>Strategy and Conf calls </li>
     <li class="grey"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="YNT63SPK3S6WU">
@@ -40,13 +40,13 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Annual Pass</li>
-    <li class="grey">$ 349 / 12 months</li>
-    <li>Dedicated Concierge</li>
-    <li>Plan Your Year services</li>
-    <li>HomeOwners Tasks Services </li>
-    <li>VIP Parking Access </li>
-    <li>VIP RIdes (less than 15 min wait or its free)</li>
+    <li class="header">20 Hours/week</li>
+    <li class="grey">$ $2000/week </li>
+    <li>End of Week Report containing:</li>
+    <li>All source code written for week</li>
+    <li>All original graphics files </li>
+    <li>Daily Sprint Call (30 min max)</li>
+    <li>Weekly Sprint Review/Plan (2hrs max)</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>

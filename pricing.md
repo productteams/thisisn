@@ -16,7 +16,12 @@ permalink: /pricing/
     <li>1 Hour Conference Call</li>
     <li>Deliverable 1: Project Recommendations</li>
     <li>Deliverable 2: Project Timeline and Budget</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="5W9QN8LY2GJNJ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></li>
   </ul>
 </div>
 

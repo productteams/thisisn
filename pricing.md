@@ -41,7 +41,7 @@ permalink: /pricing/
 <div class="columns">
   <ul class="price">
     <li class="header">20 Hours/week</li>
-    <li class="grey">$ $2000/week </li>
+    <li class="grey">$2000/week </li>
     <li>End of Week Report containing:</li>
     <li>All source code written for week</li>
     <li>All original graphics files </li>
